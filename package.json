@@ -1,24 +1,18 @@
 {
-  "name": "videojs-resolution-switcher",
-  "version": "0.4.2",
-  "main": "./lib/videojs-resolution-switcher.js",
+  "name": "cloudinary-resolution-switcher",
+  "version": "0.0.1",
+  "main": "./lib/cloudinary-resolution-switcher.js",
   "author": {
-    "name": "Kasper Moskwiak",
-    "email": "kasper.moskwiak@gmail.com",
-    "url": "http://kspr.pl"
+    "name": "Alfredo Uribe"
   },
-  "contributors": [
-    {
-      "name": "Pierre Kraft"
-    }
-  ],
-  "description": "Resolution switcher for video.js 5",
+  "contributors": [],
+  "description": "Resolution switcher for Cloudinary",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kmoskwiak/videojs-resolution-switcher.git"
+    "url": "git@github.com:fellou89/cloudinary-resolution-switcher.git"
   },
   "bugs": {
-    "url": "https://github.com/kmoskwiak/videojs-resolution-switcher/issues"
+    "url": "https://github.com/fellou89/cloudinary-resolution-switcher/issues"
   },
   "license": "Apache-2.0",
   "keywords": [
@@ -42,11 +36,7 @@
     "grunt-contrib-qunit": "^1.1",
     "grunt-contrib-uglify": "^1.0",
     "grunt-contrib-watch": "^1.0",
-    "video.js": "^5.8",
     "qunitjs": "^1.22",
     "videojs-youtube": "^2.0.8"
-  },
-  "peerDependencies": {
-    "video.js": "^5.8"
   }
 }
